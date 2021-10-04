@@ -13,5 +13,6 @@
 * 2 Adet link eklendi.
 * Bazı yazılar renklendirildi (inline) ve kalınlaştırıldı.
 * ***Italic*** ve **bold** yazılar kullanıldı.
+* .gitignore Dosyası düzenlendi.
 * Son olarak ise README.md dosyamı düzenleyip ödevimi yolluyorum.
 ---
